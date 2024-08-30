@@ -2,7 +2,7 @@
 tasks:
   - init: ./gradlew build --priority=normal
 
-
+lll
 vscode:
   extensions:
     - vscjava.vscode-java-pack
